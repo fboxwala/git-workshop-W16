@@ -11,4 +11,4 @@ Wooooooohooo fun for all!
 + **who:** Everyone!
 + **what:** Ice Cream Dance Party
 + **where:** Egg fountain!
-+ **when:** When it's nice and sunny and pretty outside!Title: Ice Cream Dance Party!
++ **when:** When it's nice and sunny and pretty outside!
