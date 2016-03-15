@@ -6,6 +6,8 @@ Slug: froyo-social-f16
 Author: Niv Govindaraju
 Summary: Come out to talk to some awesome women in tech while bonding over delicious froyo!
 
+Join us at Menchies for delicious frozen yogurt and great conversation with other women in tech!
+
 ## Event Details ##
 
 + **Who:** Everyone!
